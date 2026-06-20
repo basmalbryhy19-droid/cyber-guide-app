@@ -1,3 +1,4 @@
+```ini
 [app]
 title = Cyber Guide
 package.name = cyberguide
